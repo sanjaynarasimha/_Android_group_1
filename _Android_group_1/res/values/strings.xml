@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- group_1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="welcome_onboard_string">WELCOME ONBOARD</string>
+	<string name="register_string">REGISTER</string>
+	<string name="enter_your_name_string">ENTER YOUR NAME</string>
+	<string name="enter_you_number_string">ENTER YOU NUMBER</string>
+	<string name="enter_your_email_string">ENTER YOUR EMAIL</string>
+	<string name="enter_your_password_string">ENTER YOUR PASSWORD</string>
+	<string name="routine_app_string">ROUTINE APP</string>
+</resources>
